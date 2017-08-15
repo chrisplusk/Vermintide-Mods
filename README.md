@@ -2,7 +2,7 @@
 
 ## SaverGrimDiscard
 
-[![Saver Grim Discard](https://img.youtube.com/vi/lXvQlJWWX4E/4.jpg)](https://www.youtube.com/watch?v=lXvQlJWWX4E)
+[![Saver Grim Discard](https://i.ytimg.com/vi/lXvQlJWWX4E/hqdefault.jpg)](https://www.youtube.com/watch?v=lXvQlJWWX4E)
 
 ## ShowAISlots
 
